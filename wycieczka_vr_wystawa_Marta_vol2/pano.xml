@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18043" appversion="6.1.11" start="node11">
+  <panorama id="node11">
+    <input leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="1" overlap="1" levelbiashidpi="1.000" leveltilesize="510" width="1344" height="1344">
+      <level predecode="0" width="1344" preload="0" height="1344"/>
+      <level predecode="0" width="672" preload="0" height="672"/>
+      <level predecode="1" width="336" preload="1" height="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="88">
+      <start fov="70" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata copyright="Julia Stanisz" heading="88" datetime="24.06.2025 16:39" comment="" author="Julia Stanisz" info="" nodeid="node11" altitude="258.30" title="" tags="wystawa_Marty" longitude="19.99760408" latitude="50.07513990" customnodeid="" description="Między naturą a legendą - wystawa Marty Brachowskiej" source="Wydział Mechaniczny Politechniki Krakowskiej"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" textalpha="1" enabled="0" borderalpha="1" background="1" bordercolor="0x000000" backgroundalpha="1" border="1" backgroundcolor="0xffffff" borderradius="1" width="180" wordwrap="1" height="20"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="3" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" distance="9.03258" skinid="ht_node" url="{node1}" tilt="0" title="" description="" target="$fwd" pan="186.445"/>
+    </hotspots>
+    <media>
+      <image fov="34.608" id="Element01" rotx="-1.000" stretch="1.000" roty="8.000" tilt="2.780" width="720" clickmode="4" rotz="1.000" height="509" handcursor="0" pan="-142.270">
+        <source url="media/511164130_4112248582343808_226530195469425529_n.jpg"/>
+      </image>
+      <lensflare id="Lensflare01" type="1" alpha="80.000" tilt="17.810" color="0xffffff" blinding="50.000" pan="-223.090"/>
+    </media>
+    <transition softedge="0" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve" zoomout="0" zoomafterinfov="90" enabled="1" zoomafteroutfov="20" zoomin="2" blendtime="1" zoomspeed="2" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" invertwheel="0" sensitivity="8" rubberband="0" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" lockedwheel="0" contextfullscreen="1" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510" width="1344" height="1344">
+      <level predecode="0" width="1344" preload="0" height="1344"/>
+      <level predecode="0" width="672" preload="0" height="672"/>
+      <level predecode="1" width="336" preload="1" height="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="230">
+      <start fov="70" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata copyright="" heading="230" datetime="24.06.2025 16:29" comment="" author="Julia Stanisz" info="" nodeid="node1" altitude="258.30" title="" tags="wystawa_Marty" longitude="19.99747888" latitude="50.07512797" customnodeid="" description="Między naturą a legendą - wystawa Marty Brachowskiej" source="Wydział Mechaniczny Politechniki Krakowskiej"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" textalpha="1" enabled="0" borderalpha="1" background="1" bordercolor="0x000000" backgroundalpha="1" border="1" backgroundcolor="0xffffff" borderradius="1" width="180" wordwrap="1" height="20"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="3" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" distance="9.03258" skinid="ht_node" url="{node11}" tilt="0" title="" description="" target="$fwd" pan="148.445"/>
+      <hotspot id="Point02" distance="4.49814" skinid="ht_node" url="{node2}" tilt="0" title="" description="" target="$fwd" pan="322.919"/>
+      <hotspot id="" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="8.32" title="Tytuł pracy" description="opisssss" target="" pan="-132.96"/>
+      <hotspot id="Point03" skinid="ht_info" url="" tilt="14.57" title="Tytuł pracy" description="Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis " target="" pan="-126.29"/>
+    </hotspots>
+    <media>
+      <lensflare id="Lensflare01" type="1" alpha="80.000" tilt="19.050" color="0xffffff" blinding="50.000" pan="-110.020"/>
+    </media>
+    <transition softedge="0" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve" zoomout="0" zoomafterinfov="90" enabled="1" zoomafteroutfov="20" zoomin="2" blendtime="1" zoomspeed="2" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" invertwheel="0" sensitivity="8" rubberband="0" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" lockedwheel="0" contextfullscreen="1" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510" width="1344" height="1344">
+      <level predecode="0" width="1344" preload="0" height="1344"/>
+      <level predecode="0" width="672" preload="0" height="672"/>
+      <level predecode="1" width="336" preload="1" height="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="241">
+      <start fov="70" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata copyright="" heading="241" datetime="24.06.2025 16:30" comment="" author="Julia Stanisz" info="" nodeid="node2" altitude="258.30" title="" tags="wystawa_Marty" longitude="19.99741593" latitude="50.07512591" customnodeid="" description="Między naturą a legendą - wystawa Marty Brachowskiej" source="Wydział Mechaniczny Politechniki Krakowskiej"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" textalpha="1" enabled="0" borderalpha="1" background="1" bordercolor="0x000000" backgroundalpha="1" border="1" backgroundcolor="0xffffff" borderradius="1" width="180" wordwrap="1" height="20"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="3" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" distance="4.49814" skinid="ht_node" url="{node1}" tilt="0" title="" description="" target="$fwd" pan="153.919"/>
+      <hotspot id="Point02" distance="3.71556" skinid="ht_node" url="{node3}" tilt="0" title="" description="" target="$fwd" pan="338.913"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="7.67" title="Tytuł pracy" description="opisssss" target="" pan="-138.28"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="7.2" title="Tytuł pracy" description="opisssss" target="" pan="-149.65"/>
+      <hotspot id="Point03" skinid="ht_info" url="" tilt="-32.2" title="Tytuł pracy" description="Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis " target="" pan="-90.48"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="2.77" title="Tytuł pracy" description="opisssss" target="" pan="-61.23"/>
+    </hotspots>
+    <media>
+      <lensflare id="Lensflare01" type="1" alpha="80.000" tilt="18.330" color="0xffffff" blinding="50.000" pan="-114.050"/>
+    </media>
+    <transition softedge="0" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve" zoomout="0" zoomafterinfov="90" enabled="1" zoomafteroutfov="20" zoomin="2" blendtime="1" zoomspeed="2" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" invertwheel="0" sensitivity="8" rubberband="0" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" lockedwheel="0" contextfullscreen="1" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510" width="1344" height="1344">
+      <level predecode="0" width="1344" preload="0" height="1344"/>
+      <level predecode="0" width="672" preload="0" height="672"/>
+      <level predecode="1" width="336" preload="1" height="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="233">
+      <start fov="70" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata copyright="" heading="233" datetime="24.06.2025 16:31" comment="" author="Julia Stanisz" info="" nodeid="node3" altitude="258.30" title="" tags="wystawa_Marty" longitude="19.99736436" latitude="50.07512131" customnodeid="" description="Między naturą a legendą - wystawa Marty Brachowskiej" source="Wydział Mechaniczny Politechniki Krakowskiej"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" textalpha="1" enabled="0" borderalpha="1" background="1" bordercolor="0x000000" backgroundalpha="1" border="1" backgroundcolor="0xffffff" borderradius="1" width="180" wordwrap="1" height="20"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="3" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" distance="3.71556" skinid="ht_node" url="{node2}" tilt="0" title="" description="" target="$fwd" pan="150.913"/>
+      <hotspot id="Point02" distance="3.92803" skinid="ht_node" url="{node4}" tilt="0" title="" description="" target="$fwd" pan="326.831"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="5.9" title="Tytuł pracy" description="opisssss" target="" pan="-103.91"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="6.39" title="Tytuł pracy" description="opisssss" target="" pan="-116.27"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="-0.07" title="Tytuł pracy" description="opisssss" target="" pan="-67.54"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="8.97" title="Tytuł pracy" description="opisssss" target="" pan="-68.14"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="3.48" title="Tytuł pracy" description="opisssss" target="" pan="-172.04"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve" zoomout="0" zoomafterinfov="90" enabled="1" zoomafteroutfov="20" zoomin="2" blendtime="1" zoomspeed="2" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" invertwheel="0" sensitivity="8" rubberband="0" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" lockedwheel="0" contextfullscreen="1" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510" width="1344" height="1344">
+      <level predecode="0" width="1344" preload="0" height="1344"/>
+      <level predecode="0" width="672" preload="0" height="672"/>
+      <level predecode="1" width="336" preload="1" height="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="188">
+      <start fov="70" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata copyright="" heading="188" datetime="24.06.2025 16:32" comment="" author="Julia Stanisz" info="" nodeid="node4" altitude="258.30" title="" tags="wystawa_Marty" longitude="19.99730944" latitude="50.07511895" customnodeid="" description="Między naturą a legendą - wystawa Marty Brachowskiej" source="Wydział Mechaniczny Politechniki Krakowskiej"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" textalpha="1" enabled="0" borderalpha="1" background="1" bordercolor="0x000000" backgroundalpha="1" border="1" backgroundcolor="0xffffff" borderradius="1" width="180" wordwrap="1" height="20"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="3" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" distance="3.92803" skinid="ht_node" url="{node3}" tilt="0" title="" description="" target="$fwd" pan="101.831"/>
+      <hotspot id="Point02" distance="3.65448" skinid="ht_node" url="{node5}" tilt="0" title="" description="" target="$fwd" pan="281.751"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="13.74" title="Tytuł pracy" description="opisssss" target="" pan="-191.03"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="-0.8" title="Tytuł pracy" description="opisssss" target="" pan="-191.24"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="4.95" title="Tytuł pracy" description="opisssss" target="" pan="-135.82"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="5.46" title="Tytuł pracy" description="opisssss" target="" pan="-145.68"/>
+    </hotspots>
+    <media>
+      <lensflare id="Lensflare01" type="1" alpha="80.000" tilt="16.670" color="0xffffff" blinding="50.000" pan="-175.440"/>
+    </media>
+    <transition softedge="0" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve" zoomout="0" zoomafterinfov="90" enabled="1" zoomafteroutfov="20" zoomin="2" blendtime="1" zoomspeed="2" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" invertwheel="0" sensitivity="8" rubberband="0" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" lockedwheel="0" contextfullscreen="1" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510" width="1344" height="1344">
+      <level predecode="0" width="1344" preload="0" height="1344"/>
+      <level predecode="0" width="672" preload="0" height="672"/>
+      <level predecode="1" width="336" preload="1" height="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="168">
+      <start fov="70" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata copyright="" heading="168" datetime="24.06.2025 16:33" comment="" author="Julia Stanisz" info="" nodeid="node5" altitude="258.30" title="" tags="wystawa_Marty" longitude="19.99725834" latitude="50.07511680" customnodeid="" description="Między naturą a legendą - wystawa Marty Brachowskiej" source="Wydział Mechaniczny Politechniki Krakowskiej"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" textalpha="1" enabled="0" borderalpha="1" background="1" bordercolor="0x000000" backgroundalpha="1" border="1" backgroundcolor="0xffffff" borderradius="1" width="180" wordwrap="1" height="20"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="3" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" distance="3.65448" skinid="ht_node" url="{node4}" tilt="0" title="" description="" target="$fwd" pan="81.7509"/>
+      <hotspot id="Point02" distance="3.86422" skinid="ht_node" url="{node6}" tilt="0" title="" description="" target="$fwd" pan="261.283"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="1.52" title="Tytuł pracy" description="opisssss" target="" pan="-169.47"/>
+      <hotspot id="Point03" skinid="ht_info" url="" tilt="-28.59" title="Tytuł pracy" description="Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis " target="" pan="-207.36"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="6.43" title="Tytuł pracy" description="opisssss" target="" pan="-136.37"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="3.07" title="Tytuł pracy" description="opisssss" target="" pan="-241.74"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="2.88" title="Tytuł pracy" description="opisssss" target="" pan="-246.28"/>
+    </hotspots>
+    <media>
+      <lensflare id="Lensflare01" type="1" alpha="80.000" tilt="26.130" color="0xffffff" blinding="50.000" pan="-13.720"/>
+    </media>
+    <transition softedge="0" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve" zoomout="0" zoomafterinfov="90" enabled="1" zoomafteroutfov="20" zoomin="2" blendtime="1" zoomspeed="2" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" invertwheel="0" sensitivity="8" rubberband="0" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" lockedwheel="0" contextfullscreen="1" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510" width="1344" height="1344">
+      <level predecode="0" width="1344" preload="0" height="1344"/>
+      <level predecode="0" width="672" preload="0" height="672"/>
+      <level predecode="1" width="336" preload="1" height="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="157">
+      <start fov="70" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata copyright="" heading="157" datetime="24.06.2025 16:34" comment="" author="Julia Stanisz" info="" nodeid="node6" altitude="258.30" title="" tags="wystawa_Marty" longitude="19.99720428" latitude="50.07511481" customnodeid="" description="Między naturą a legendą - wystawa Marty Brachowskiej" source="Wydział Mechaniczny Politechniki Krakowskiej"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" textalpha="1" enabled="0" borderalpha="1" background="1" bordercolor="0x000000" backgroundalpha="1" border="1" backgroundcolor="0xffffff" borderradius="1" width="180" wordwrap="1" height="20"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="3" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" distance="3.86422" skinid="ht_node" url="{node5}" tilt="0" title="" description="" target="$fwd" pan="70.2828"/>
+      <hotspot id="Point02" distance="3.43829" skinid="ht_node" url="{node7}" tilt="0" title="" description="" target="$fwd" pan="252.605"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="8.19" title="Tytuł pracy" description="opisssss" target="" pan="-239.01"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="2.55" title="Tytuł pracy" description="opisssss" target="" pan="-173.88"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="9.07" title="Tytuł pracy" description="opisssss" target="" pan="-139.39"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="9.5" title="Tytuł pracy" description="opisssss" target="" pan="-142.52"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="2.64" title="Tytuł pracy" description="opisssss" target="" pan="-139.61"/>
+    </hotspots>
+    <media>
+      <lensflare id="Lensflare01" type="1" alpha="80.000" tilt="19.470" color="0xffffff" blinding="50.000" pan="-215.930"/>
+    </media>
+    <transition softedge="0" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve" zoomout="0" zoomafterinfov="90" enabled="1" zoomafteroutfov="20" zoomin="2" blendtime="1" zoomspeed="2" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" invertwheel="0" sensitivity="8" rubberband="0" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" lockedwheel="0" contextfullscreen="1" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510" width="1344" height="1344">
+      <level predecode="0" width="1344" preload="0" height="1344"/>
+      <level predecode="0" width="672" preload="0" height="672"/>
+      <level predecode="1" width="336" preload="1" height="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="171">
+      <start fov="70" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata copyright="" heading="171" datetime="24.06.2025 16:35" comment="" author="Julia Stanisz" info="" nodeid="node7" altitude="258.30" title="" tags="wystawa_Marty" longitude="19.99715633" latitude="50.07511179" customnodeid="" description="Między naturą a legendą - wystawa Marty Brachowskiej" source="Wydział Mechaniczny Politechniki Krakowskiej"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" textalpha="1" enabled="0" borderalpha="1" background="1" bordercolor="0x000000" backgroundalpha="1" border="1" backgroundcolor="0xffffff" borderradius="1" width="180" wordwrap="1" height="20"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="3" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" distance="3.43829" skinid="ht_node" url="{node6}" tilt="0" title="" description="" target="$fwd" pan="86.6049"/>
+      <hotspot id="Point02" distance="4.13723" skinid="ht_node" url="{node8}" tilt="0" title="" description="" target="$fwd" pan="266.97"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="3.36" title="Tytuł pracy" description="opisssss" target="" pan="-192.96"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="14.8" title="Tytuł pracy" description="opisssss" target="" pan="-188.87"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="14.35" title="Tytuł pracy" description="opisssss" target="" pan="-199.35"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="4.18" title="Tytuł pracy" description="opisssss" target="" pan="-127.54"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="4.7" title="Tytuł pracy" description="opisssss" target="" pan="-131.94"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="0.86" title="Tytuł pracy" description="opisssss" target="" pan="-235.84"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve" zoomout="0" zoomafterinfov="90" enabled="1" zoomafteroutfov="20" zoomin="2" blendtime="1" zoomspeed="2" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" invertwheel="0" sensitivity="8" rubberband="0" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" lockedwheel="0" contextfullscreen="1" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510" width="1344" height="1344">
+      <level predecode="0" width="1344" preload="0" height="1344"/>
+      <level predecode="0" width="672" preload="0" height="672"/>
+      <level predecode="1" width="336" preload="1" height="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-190">
+      <start fov="70" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata copyright="" heading="-190" datetime="24.06.2025 16:36" comment="" author="Julia Stanisz" info="" nodeid="node8" altitude="258.30" title="" tags="wystawa_Marty" longitude="19.99709867" latitude="50.07510792" customnodeid="" description="Między naturą a legendą - wystawa Marty Brachowskiej" source="Wydział Mechaniczny Politechniki Krakowskiej"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" textalpha="1" enabled="0" borderalpha="1" background="1" bordercolor="0x000000" backgroundalpha="1" border="1" backgroundcolor="0xffffff" borderradius="1" width="180" wordwrap="1" height="20"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="3" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" distance="4.13723" skinid="ht_node" url="{node7}" tilt="0" title="" description="" target="$fwd" pan="-274.03"/>
+      <hotspot id="Point02" distance="3.5816" skinid="ht_node" url="{node9}" tilt="0" title="" description="" target="$fwd" pan="-94.5308"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="4.65" title="Tytuł pracy" description="opisssss" target="" pan="-232.92"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="4.2" title="Tytuł pracy" description="opisssss" target="" pan="-239.55"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="17.54" title="Tytuł pracy" description="opisssss" target="" pan="-164.56"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="18.72" title="Tytuł pracy" description="opisssss" target="" pan="-174.1"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="4.22" title="Tytuł pracy" description="opisssss" target="" pan="-163.43"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="4.18" title="Tytuł pracy" description="opisssss" target="" pan="-173.85"/>
+    </hotspots>
+    <media>
+      <lensflare id="Lensflare01" type="1" alpha="80.000" tilt="14.830" color="0xffffff" blinding="50.000" pan="-144.250"/>
+    </media>
+    <transition softedge="0" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve" zoomout="0" zoomafterinfov="90" enabled="1" zoomafteroutfov="20" zoomin="2" blendtime="1" zoomspeed="2" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" invertwheel="0" sensitivity="8" rubberband="0" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" lockedwheel="0" contextfullscreen="1" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510" width="1344" height="1344">
+      <level predecode="0" width="1344" preload="0" height="1344"/>
+      <level predecode="0" width="672" preload="0" height="672"/>
+      <level predecode="1" width="336" preload="1" height="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="164">
+      <start fov="70" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata copyright="" heading="164" datetime="24.06.2025 16:37" comment="" author="Julia Stanisz" info="" nodeid="node9" altitude="258.30" title="" tags="wystawa_Marty" longitude="19.99704871" latitude="50.07510485" customnodeid="" description="Między naturą a legendą - wystawa Marty Brachowskiej" source="Wydział Mechaniczny Politechniki Krakowskiej"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" textalpha="1" enabled="0" borderalpha="1" background="1" bordercolor="0x000000" backgroundalpha="1" border="1" backgroundcolor="0xffffff" borderradius="1" width="180" wordwrap="1" height="20"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="3" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" distance="3.5816" skinid="ht_node" url="{node8}" tilt="0" title="" description="" target="$fwd" pan="79.4693"/>
+      <hotspot id="Point02" distance="3.46339" skinid="ht_node" url="{node10}" tilt="0" title="" description="" target="$fwd" pan="259.841"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="2.08" title="Tytuł pracy" description="opisssss" target="" pan="-212.86"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="5.34" title="Tytuł pracy" description="opisssss" target="" pan="-141.13"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="5.68" title="Tytuł pracy" description="opisssss" target="" pan="-148.02"/>
+    </hotspots>
+    <media>
+      <lensflare id="Lensflare01" type="1" alpha="80.000" tilt="18.570" color="0xffffff" blinding="50.000" pan="-185.360"/>
+    </media>
+    <transition softedge="0" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve" zoomout="0" zoomafterinfov="90" enabled="1" zoomafteroutfov="20" zoomin="2" blendtime="1" zoomspeed="2" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" invertwheel="0" sensitivity="8" rubberband="0" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" lockedwheel="0" contextfullscreen="1" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" levelingpitch="0" overlap="1" levelbiashidpi="1.000" leveltilesize="510" width="1344" height="1344">
+      <level predecode="0" width="1344" preload="0" height="1344"/>
+      <level predecode="0" width="672" preload="0" height="672"/>
+      <level predecode="1" width="336" preload="1" height="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="160">
+      <start fov="70" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" tilt="90" pan="360"/>
+    </view>
+    <userdata copyright="" heading="160" datetime="24.06.2025 16:38" comment="" author="Julia Stanisz" info="" nodeid="node10" altitude="258.30" title="" tags="wystawa_Marty" longitude="19.99700043" latitude="50.07510168" customnodeid="" description="Między naturą a legendą - wystawa Marty Brachowskiej" source="Wydział Mechaniczny Politechniki Krakowskiej"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" textalpha="1" enabled="0" borderalpha="1" background="1" bordercolor="0x000000" backgroundalpha="1" border="1" backgroundcolor="0xffffff" borderradius="1" width="180" wordwrap="1" height="20"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="3" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot id="Point01" distance="3.46339" skinid="ht_node" url="{node9}" tilt="0" title="" description="" target="$fwd" pan="75.8414"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="15.07" title="Tytuł pracy" description="opisssss" target="" pan="-163.07"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="15.97" title="Tytuł pracy" description="opisssss" target="" pan="-170.84"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="2.5" title="Tytuł pracy" description="opisssss" target="" pan="-162.05"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="2.93" title="Tytuł pracy" description="opisssss" target="" pan="-169.88"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="2.97" title="Tytuł pracy" description="opisssss" target="" pan="-247.27"/>
+      <hotspot id="Point03" skinid="ht_image" url="images/pikne_zdjecie.png" tilt="3.15" title="Tytuł pracy" description="opisssss" target="" pan="-252.58"/>
+    </hotspots>
+    <media>
+      <lensflare id="Lensflare01" type="1" alpha="80.000" tilt="17.610" color="0xffffff" blinding="50.000" pan="-204.030"/>
+    </media>
+    <transition softedge="0" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve" zoomout="0" zoomafterinfov="90" enabled="1" zoomafteroutfov="20" zoomin="2" blendtime="1" zoomspeed="2" zoomfov="40"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" invertwheel="0" sensitivity="8" rubberband="0" lockedmouse="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedkeyboardzoom="0" hideabout="0" lockedwheel="0" contextfullscreen="1" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" heading="0" datetime="" comment="" author="" info="" nodeid="master" title="" tags="" longitude="" latitude="" customnodeid="" description="" source=""/>
+  </masternode>
+</tour>
