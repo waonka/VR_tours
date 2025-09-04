@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node11" apprev="18043" appversion="6.1.11">
+  <panorama id="node11">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1344" overlap="1" levelbiashidpi="1.000" levelbias="0.400" height="1344" levelingpitch="1">
+      <level predecode="0" preload="0" width="1344" height="1344"/>
+      <level predecode="0" preload="0" width="672" height="672"/>
+      <level predecode="1" preload="1" width="336" height="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="88" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" tilt="90" fovfisheye="360" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="Wydział Mechaniczny Politechniki Krakowskiej" customnodeid="" nodeid="node11" description="Między naturą a legendą - wystawa Marty Brachowskiej" author="Julia Stanisz" datetime="24.06.2025 16:39" comment="" info="" latitude="50.07513990" longitude="19.99760408" altitude="258.30" tags="wystawa_Marty" title="" copyright="Julia Stanisz" heading="88"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" wordwrap="1" borderradius="1" enabled="1" width="180" textcolor="0x000000" border="1" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot url="{node1}" tilt="0" distance="9.03258" description="" id="Point01" target="$fwd" pan="186.445" skinid="ht_node" title=""/>
+    </hotspots>
+    <media>
+      <lensflare color="0xffffff" tilt="17.810" alpha="80.000" blinding="50.000" type="1" id="Lensflare01" pan="-223.090"/>
+    </media>
+    <transition zoomoutpause="1" zoomafterinfov="90" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="1" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" softedge="0" zoomin="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" dblclickfullscreen="0" invertwheel="0" hideabout="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1344" overlap="1" levelbiashidpi="1.000" levelbias="0.400" height="1344" levelingpitch="0">
+      <level predecode="0" preload="0" width="1344" height="1344"/>
+      <level predecode="0" preload="0" width="672" height="672"/>
+      <level predecode="1" preload="1" width="336" height="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="230" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" tilt="90" fovfisheye="360" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="Wydział Mechaniczny Politechniki Krakowskiej" customnodeid="" nodeid="node1" description="Między naturą a legendą - wystawa Marty Brachowskiej" author="Julia Stanisz" datetime="24.06.2025 16:29" comment="" info="" latitude="50.07512797" longitude="19.99747888" altitude="258.30" tags="wystawa_Marty" title="" copyright="" heading="230"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" wordwrap="1" borderradius="1" enabled="1" width="180" textcolor="0x000000" border="1" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot url="{node11}" tilt="0" distance="9.03258" description="" id="Point01" target="$fwd" pan="148.445" skinid="ht_node" title=""/>
+      <hotspot url="{node2}" tilt="0" distance="4.49814" description="" id="Point02" target="$fwd" pan="322.919" skinid="ht_node" title=""/>
+      <hotspot url="" tilt="14.23" description="Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis " id="Point03" target="" pan="-126.29" skinid="ht_info" title="Między naturą a legendą"/>
+    </hotspots>
+    <media>
+      <lensflare color="0xffffff" tilt="19.050" alpha="80.000" blinding="50.000" type="1" id="Lensflare01" pan="-110.020"/>
+    </media>
+    <transition zoomoutpause="1" zoomafterinfov="90" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="1" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" softedge="0" zoomin="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" dblclickfullscreen="0" invertwheel="0" hideabout="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1344" overlap="1" levelbiashidpi="1.000" levelbias="0.400" height="1344" levelingpitch="0">
+      <level predecode="0" preload="0" width="1344" height="1344"/>
+      <level predecode="0" preload="0" width="672" height="672"/>
+      <level predecode="1" preload="1" width="336" height="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="241" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" tilt="90" fovfisheye="360" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="Wydział Mechaniczny Politechniki Krakowskiej" customnodeid="" nodeid="node2" description="Między naturą a legendą - wystawa Marty Brachowskiej" author="Julia Stanisz" datetime="24.06.2025 16:30" comment="" info="" latitude="50.07512591" longitude="19.99741593" altitude="258.30" tags="wystawa_Marty" title="" copyright="" heading="241"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" wordwrap="1" borderradius="1" enabled="1" width="180" textcolor="0x000000" border="1" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot url="{node1}" tilt="0" distance="4.49814" description="" id="Point01" target="$fwd" pan="153.919" skinid="ht_node" title=""/>
+      <hotspot url="{node3}" tilt="0" distance="3.71556" description="" id="Point02" target="$fwd" pan="338.913" skinid="ht_node" title=""/>
+      <hotspot url="images/Głupiec.jpg" tilt="3.81" description="" id="Point03" target="" pan="-137.01" skinid="ht_image" title="Głupiec"/>
+      <hotspot url="images/Nowy Obraz — mapa bitowa — kopia.jpg" tilt="3.48" description="" id="Point03" target="" pan="-148.96" skinid="ht_image" title="Tytuł pracy"/>
+      <hotspot url="" tilt="-32.2" description="Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis " id="Point03" target="" pan="-90.48" skinid="ht_info" title="Tytuł pracy"/>
+      <hotspot url="images/Proporzec z wilkami.png" tilt="2.13" description="opisssss" id="Point03" target="" pan="-60.05" skinid="ht_image" title="Proporzec z wilkami"/>
+    </hotspots>
+    <media>
+      <lensflare color="0xffffff" tilt="18.330" alpha="80.000" blinding="50.000" type="1" id="Lensflare01" pan="-114.050"/>
+    </media>
+    <transition zoomoutpause="1" zoomafterinfov="90" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="1" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" softedge="0" zoomin="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" dblclickfullscreen="0" invertwheel="0" hideabout="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1344" overlap="1" levelbiashidpi="1.000" levelbias="0.400" height="1344" levelingpitch="0">
+      <level predecode="0" preload="0" width="1344" height="1344"/>
+      <level predecode="0" preload="0" width="672" height="672"/>
+      <level predecode="1" preload="1" width="336" height="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="233" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" tilt="90" fovfisheye="360" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="Wydział Mechaniczny Politechniki Krakowskiej" customnodeid="" nodeid="node3" description="Między naturą a legendą - wystawa Marty Brachowskiej" author="Julia Stanisz" datetime="24.06.2025 16:31" comment="" info="" latitude="50.07512131" longitude="19.99736436" altitude="258.30" tags="wystawa_Marty" title="" copyright="" heading="233"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" wordwrap="1" borderradius="1" enabled="1" width="180" textcolor="0x000000" border="1" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot url="{node2}" tilt="0" distance="3.71556" description="" id="Point01" target="$fwd" pan="150.913" skinid="ht_node" title=""/>
+      <hotspot url="{node4}" tilt="0" distance="3.92803" description="" id="Point02" target="$fwd" pan="326.831" skinid="ht_node" title=""/>
+      <hotspot url="images/Kotka.jpg" tilt="2.51" description="opisssss" id="Point03" target="" pan="-102.22" skinid="ht_image" title="Kotka"/>
+      <hotspot url="images/Smoczy ziew.png" tilt="2.73" description="opisssss" id="Point03" target="" pan="-115.2" skinid="ht_image" title="Smoczy ziew"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafterinfov="90" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="1" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" softedge="0" zoomin="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" dblclickfullscreen="0" invertwheel="0" hideabout="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1344" overlap="1" levelbiashidpi="1.000" levelbias="0.400" height="1344" levelingpitch="0">
+      <level predecode="0" preload="0" width="1344" height="1344"/>
+      <level predecode="0" preload="0" width="672" height="672"/>
+      <level predecode="1" preload="1" width="336" height="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="188" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" tilt="90" fovfisheye="360" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="Wydział Mechaniczny Politechniki Krakowskiej" customnodeid="" nodeid="node4" description="Między naturą a legendą - wystawa Marty Brachowskiej" author="Julia Stanisz" datetime="24.06.2025 16:32" comment="" info="" latitude="50.07511895" longitude="19.99730944" altitude="258.30" tags="wystawa_Marty" title="" copyright="" heading="188"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" wordwrap="1" borderradius="1" enabled="1" width="180" textcolor="0x000000" border="1" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot url="{node3}" tilt="0" distance="3.92803" description="" id="Point01" target="$fwd" pan="101.831" skinid="ht_node" title=""/>
+      <hotspot url="{node5}" tilt="0" distance="3.65448" description="" id="Point02" target="$fwd" pan="281.751" skinid="ht_node" title=""/>
+      <hotspot url="images/Nowy Obraz — mapa bitowa — kopia.jpg" tilt="12.69" description="opisssss" id="Point03" target="" pan="-191.2" skinid="ht_image" title="Tytuł pracy"/>
+      <hotspot url="images/Mapa tawerny-01.jpg" tilt="-1.59" description="opisssss" id="Point03" target="" pan="-191.41" skinid="ht_image" title="Mapa tawerny"/>
+      <hotspot url="images/Purpura honoru-01.jpg" tilt="2.37" description="opisssss" id="Point03" target="" pan="-134.51" skinid="ht_image" title="Purpura honoru"/>
+      <hotspot url="images/Zerwany ślub.jpg" tilt="2.37" description="opisssss" id="Point03" target="" pan="-145.24" skinid="ht_image" title="Zerwany ślub"/>
+    </hotspots>
+    <media>
+      <lensflare color="0xffffff" tilt="16.670" alpha="80.000" blinding="50.000" type="1" id="Lensflare01" pan="-175.440"/>
+    </media>
+    <transition zoomoutpause="1" zoomafterinfov="90" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="1" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" softedge="0" zoomin="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" dblclickfullscreen="0" invertwheel="0" hideabout="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1344" overlap="1" levelbiashidpi="1.000" levelbias="0.400" height="1344" levelingpitch="0">
+      <level predecode="0" preload="0" width="1344" height="1344"/>
+      <level predecode="0" preload="0" width="672" height="672"/>
+      <level predecode="1" preload="1" width="336" height="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="168" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" tilt="90" fovfisheye="360" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="Wydział Mechaniczny Politechniki Krakowskiej" customnodeid="" nodeid="node5" description="Między naturą a legendą - wystawa Marty Brachowskiej" author="Julia Stanisz" datetime="24.06.2025 16:33" comment="" info="" latitude="50.07511680" longitude="19.99725834" altitude="258.30" tags="wystawa_Marty" title="" copyright="" heading="168"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" wordwrap="1" borderradius="1" enabled="1" width="180" textcolor="0x000000" border="1" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot url="{node4}" tilt="0" distance="3.65448" description="" id="Point01" target="$fwd" pan="81.7509" skinid="ht_node" title=""/>
+      <hotspot url="{node6}" tilt="0" distance="3.86422" description="" id="Point02" target="$fwd" pan="261.283" skinid="ht_node" title=""/>
+      <hotspot url="images/Nowy Obraz — mapa bitowa — kopia.jpg" tilt="1.52" description="opisssss" id="Point03" target="" pan="-169.47" skinid="ht_image" title="Tytuł pracy"/>
+      <hotspot url="" tilt="-28.59" description="Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis Wklejony opis " id="Point03" target="" pan="-207.36" skinid="ht_info" title="Tytuł pracy"/>
+    </hotspots>
+    <media>
+      <lensflare color="0xffffff" tilt="26.130" alpha="80.000" blinding="50.000" type="1" id="Lensflare01" pan="-13.720"/>
+    </media>
+    <transition zoomoutpause="1" zoomafterinfov="90" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="1" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" softedge="0" zoomin="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" dblclickfullscreen="0" invertwheel="0" hideabout="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1344" overlap="1" levelbiashidpi="1.000" levelbias="0.400" height="1344" levelingpitch="0">
+      <level predecode="0" preload="0" width="1344" height="1344"/>
+      <level predecode="0" preload="0" width="672" height="672"/>
+      <level predecode="1" preload="1" width="336" height="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="157" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" tilt="90" fovfisheye="360" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="Wydział Mechaniczny Politechniki Krakowskiej" customnodeid="" nodeid="node6" description="Między naturą a legendą - wystawa Marty Brachowskiej" author="Julia Stanisz" datetime="24.06.2025 16:34" comment="" info="" latitude="50.07511481" longitude="19.99720428" altitude="258.30" tags="wystawa_Marty" title="" copyright="" heading="157"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" wordwrap="1" borderradius="1" enabled="1" width="180" textcolor="0x000000" border="1" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot url="{node5}" tilt="0" distance="3.86422" description="" id="Point01" target="$fwd" pan="70.2828" skinid="ht_node" title=""/>
+      <hotspot url="{node7}" tilt="0" distance="3.43829" description="" id="Point02" target="$fwd" pan="252.605" skinid="ht_node" title=""/>
+      <hotspot url="images/Nowy Obraz — mapa bitowa — kopia.jpg" tilt="8.2" description="opisssss" id="Point03" target="" pan="-237.78" skinid="ht_image" title="Tytuł pracy"/>
+      <hotspot url="images/Nowy Obraz — mapa bitowa — kopia.jpg" tilt="2.55" description="opisssss" id="Point03" target="" pan="-173.88" skinid="ht_image" title="Tytuł pracy"/>
+    </hotspots>
+    <media>
+      <lensflare color="0xffffff" tilt="19.470" alpha="80.000" blinding="50.000" type="1" id="Lensflare01" pan="-215.930"/>
+    </media>
+    <transition zoomoutpause="1" zoomafterinfov="90" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="1" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" softedge="0" zoomin="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" dblclickfullscreen="0" invertwheel="0" hideabout="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1344" overlap="1" levelbiashidpi="1.000" levelbias="0.400" height="1344" levelingpitch="0">
+      <level predecode="0" preload="0" width="1344" height="1344"/>
+      <level predecode="0" preload="0" width="672" height="672"/>
+      <level predecode="1" preload="1" width="336" height="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="171" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" tilt="90" fovfisheye="360" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="Wydział Mechaniczny Politechniki Krakowskiej" customnodeid="" nodeid="node7" description="Między naturą a legendą - wystawa Marty Brachowskiej" author="Julia Stanisz" datetime="24.06.2025 16:35" comment="" info="" latitude="50.07511179" longitude="19.99715633" altitude="258.30" tags="wystawa_Marty" title="" copyright="" heading="171"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" wordwrap="1" borderradius="1" enabled="1" width="180" textcolor="0x000000" border="1" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot url="{node6}" tilt="0" distance="3.43829" description="" id="Point01" target="$fwd" pan="86.6049" skinid="ht_node" title=""/>
+      <hotspot url="{node8}" tilt="0" distance="4.13723" description="" id="Point02" target="$fwd" pan="266.97" skinid="ht_node" title=""/>
+      <hotspot url="images/Nowy Obraz — mapa bitowa — kopia.jpg" tilt="0.48" description="opisssss" id="Point03" target="" pan="-188.42" skinid="ht_image" title="Tytuł pracy"/>
+      <hotspot url="images/Konstelacja konia.jpg" tilt="12.19" description="opisssss" id="Point03" target="" pan="-188.56" skinid="ht_image" title="Konstelacja konia"/>
+      <hotspot url="images/Nowy Obraz — mapa bitowa — kopia.jpg" tilt="11.76" description="opisssss" id="Point03" target="" pan="-198.87" skinid="ht_image" title="Tytuł pracy"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafterinfov="90" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="1" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" softedge="0" zoomin="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" dblclickfullscreen="0" invertwheel="0" hideabout="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1344" overlap="1" levelbiashidpi="1.000" levelbias="0.400" height="1344" levelingpitch="0">
+      <level predecode="0" preload="0" width="1344" height="1344"/>
+      <level predecode="0" preload="0" width="672" height="672"/>
+      <level predecode="1" preload="1" width="336" height="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-190" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" tilt="90" fovfisheye="360" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="Wydział Mechaniczny Politechniki Krakowskiej" customnodeid="" nodeid="node8" description="Między naturą a legendą - wystawa Marty Brachowskiej" author="Julia Stanisz" datetime="24.06.2025 16:36" comment="" info="" latitude="50.07510792" longitude="19.99709867" altitude="258.30" tags="wystawa_Marty" title="" copyright="" heading="-190"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" wordwrap="1" borderradius="1" enabled="1" width="180" textcolor="0x000000" border="1" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot url="{node7}" tilt="0" distance="4.13723" description="" id="Point01" target="$fwd" pan="-274.03" skinid="ht_node" title=""/>
+      <hotspot url="{node9}" tilt="0" distance="3.5816" description="" id="Point02" target="$fwd" pan="-94.5308" skinid="ht_node" title=""/>
+      <hotspot url="images/Jeździec-01.jpg" tilt="4.65" description="opisssss" id="Point03" target="" pan="-232.92" skinid="ht_image" title="Jeździec"/>
+      <hotspot url="images/Nowy Obraz — mapa bitowa — kopia.jpg" tilt="4.2" description="opisssss" id="Point03" target="" pan="-239.55" skinid="ht_image" title="Tytuł pracy"/>
+      <hotspot url="images/Nowy Obraz — mapa bitowa — kopia.jpg" tilt="16.6" description="opisssss" id="Point03" target="" pan="-163.47" skinid="ht_image" title="Tytuł pracy"/>
+      <hotspot url="images/Nowy Obraz — mapa bitowa — kopia.jpg" tilt="17.47" description="opisssss" id="Point03" target="" pan="-173.72" skinid="ht_image" title="Tytuł pracy"/>
+      <hotspot url="images/Nowy Obraz — mapa bitowa — kopia.jpg" tilt="2.05" description="opisssss" id="Point03" target="" pan="-162.25" skinid="ht_image" title="Tytuł pracy"/>
+      <hotspot url="images/Nowy Obraz — mapa bitowa — kopia.jpg" tilt="2.39" description="opisssss" id="Point03" target="" pan="-173.75" skinid="ht_image" title="Tytuł pracy"/>
+    </hotspots>
+    <media>
+      <lensflare color="0xffffff" tilt="14.830" alpha="80.000" blinding="50.000" type="1" id="Lensflare01" pan="-144.250"/>
+    </media>
+    <transition zoomoutpause="1" zoomafterinfov="90" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="1" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" softedge="0" zoomin="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" dblclickfullscreen="0" invertwheel="0" hideabout="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1344" overlap="1" levelbiashidpi="1.000" levelbias="0.400" height="1344" levelingpitch="0">
+      <level predecode="0" preload="0" width="1344" height="1344"/>
+      <level predecode="0" preload="0" width="672" height="672"/>
+      <level predecode="1" preload="1" width="336" height="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="164" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" tilt="90" fovfisheye="360" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="Wydział Mechaniczny Politechniki Krakowskiej" customnodeid="" nodeid="node9" description="Między naturą a legendą - wystawa Marty Brachowskiej" author="Julia Stanisz" datetime="24.06.2025 16:37" comment="" info="" latitude="50.07510485" longitude="19.99704871" altitude="258.30" tags="wystawa_Marty" title="" copyright="" heading="164"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" wordwrap="1" borderradius="1" enabled="1" width="180" textcolor="0x000000" border="1" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot url="{node8}" tilt="0" distance="3.5816" description="" id="Point01" target="$fwd" pan="79.4693" skinid="ht_node" title=""/>
+      <hotspot url="{node10}" tilt="0" distance="3.46339" description="" id="Point02" target="$fwd" pan="259.841" skinid="ht_node" title=""/>
+      <hotspot url="images/Smok w kłębie dymu.jpg" tilt="1.03" description="opisssss" id="Point03" target="" pan="-209.79" skinid="ht_image" title="Smok w kłębie dymu"/>
+      <hotspot url="images/Jeleni wieniec.jpg" tilt="3.19" description="opisssss" id="Point03" target="" pan="-139.98" skinid="ht_image" title="Jeleni wieniec"/>
+      <hotspot url="images/Złota rana.jpg" tilt="3" description="opisssss" id="Point03" target="" pan="-146.74" skinid="ht_image" title="Złota rana"/>
+    </hotspots>
+    <media>
+      <lensflare color="0xffffff" tilt="18.570" alpha="80.000" blinding="50.000" type="1" id="Lensflare01" pan="-185.360"/>
+    </media>
+    <transition zoomoutpause="1" zoomafterinfov="90" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="1" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" softedge="0" zoomin="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" dblclickfullscreen="0" invertwheel="0" hideabout="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelingroll="0" leveltilesize="510" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1344" overlap="1" levelbiashidpi="1.000" levelbias="0.400" height="1344" levelingpitch="0">
+      <level predecode="0" preload="0" width="1344" height="1344"/>
+      <level predecode="0" preload="0" width="672" height="672"/>
+      <level predecode="1" preload="1" width="336" height="336"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="160" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" tilt="90" fovfisheye="360" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata source="Wydział Mechaniczny Politechniki Krakowskiej" customnodeid="" nodeid="node10" description="Między naturą a legendą - wystawa Marty Brachowskiej" author="Julia Stanisz" datetime="24.06.2025 16:38" comment="" info="" latitude="50.07510168" longitude="19.99700043" altitude="258.30" tags="wystawa_Marty" title="" copyright="" heading="160"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" wordwrap="1" borderradius="1" enabled="1" width="180" textcolor="0x000000" border="1" backgroundalpha="1" height="20" textalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot url="{node9}" tilt="0" distance="3.46339" description="" id="Point01" target="$fwd" pan="75.8414" skinid="ht_node" title=""/>
+      <hotspot url="images/Nowy Obraz — mapa bitowa — kopia.jpg" tilt="14.09" description="opisssss" id="Point03" target="" pan="-162.24" skinid="ht_image" title="Tytuł pracy"/>
+      <hotspot url="images/Nowy Obraz — mapa bitowa — kopia.jpg" tilt="14.82" description="opisssss" id="Point03" target="" pan="-170.2" skinid="ht_image" title="Tytuł pracy"/>
+      <hotspot url="images/Biedronki.jpg" tilt="1.04" description="opisssss" id="Point03" target="" pan="-161.36" skinid="ht_image" title="Biedronki"/>
+      <hotspot url="images/Nowy Obraz — mapa bitowa — kopia.jpg" tilt="1.19" description="opisssss" id="Point03" target="" pan="-169.18" skinid="ht_image" title="Tytuł pracy"/>
+      <hotspot url="images/pikne_zdjecie.png" tilt="2.97" description="opisssss" id="Point03" target="" pan="-247.27" skinid="ht_image" title="Tytuł pracy"/>
+      <hotspot url="images/pikne_zdjecie.png" tilt="3.15" description="opisssss" id="Point03" target="" pan="-252.58" skinid="ht_image" title="Tytuł pracy"/>
+    </hotspots>
+    <media>
+      <lensflare color="0xffffff" tilt="17.610" alpha="80.000" blinding="50.000" type="1" id="Lensflare01" pan="-204.030"/>
+    </media>
+    <transition zoomoutpause="1" zoomafterinfov="90" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="1" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomfov="20" softedge="0" zoomin="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="1" simulatemass="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" dblclickfullscreen="0" invertwheel="0" hideabout="0" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata source="" customnodeid="" nodeid="master" description="" author="" datetime="" comment="" info="" latitude="" longitude="" tags="" title="" copyright="" heading="0"/>
+  </masternode>
+</tour>
