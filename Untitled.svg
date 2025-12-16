@@ -1,0 +1,382 @@
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="455.85px" height="556.5px"
+		style="transform-origin: 0px 0px 0px;" version="1.1"
+		xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><style xmlns="http://www.w3.org/2000/svg" type="text/css"><![CDATA[
+		* {
+			text-rendering: geometricprecision !important;
+		}
+		]]><![CDATA[@font-face {
+  font-family: 'Spoof';
+  font-style: normal;
+  font-weight: normal;
+  src: url("https://mirostatic.com/app/static/aba4657c39160239.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'Spoof';
+  font-style: normal;
+  font-weight: 500;
+  src: url("https://mirostatic.com/app/static/4e712813e003b80a.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'Spoof';
+  font-style: normal;
+  font-weight: 700;
+  src: url("https://mirostatic.com/app/static/491fae1f3502f020.woff2") format('woff2');
+}
+]]><![CDATA[@font-face {
+  font-family: 'OpenSans';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("https://mirostatic.com/app/static/800985e1502d12bf.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'OpenSans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://mirostatic.com/app/static/d8a7ca42a20caea5.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'OpenSans';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://mirostatic.com/app/static/3cc74c1d3919bd5c.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'OpenSans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("https://mirostatic.com/app/static/f0481285dc248cf0.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'OpenSans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("https://mirostatic.com/app/static/2f5e8dcf6e47bf00.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'OpenSans';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url("https://mirostatic.com/app/static/0e625f45b71a26f1.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'OpenSans';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("https://mirostatic.com/app/static/645c27eb7d93eca8.woff2") format('woff2');
+}
+]]><![CDATA[@font-face {
+  font-family: 'Noto Sans Hebrew';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Noto Sans Hebrew Regular'), local('Noto Sans Hebrew-Regular'), url("https://mirostatic.com/app/static/7ebe1dcf0343326c.woff2") format('woff2'), url("https://mirostatic.com/app/static/6c11f037d6968262.woff") format('woff');
+}
+@font-face {
+  font-family: 'Noto Sans Hebrew';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Noto Sans Hebrew Bold'), local('Noto Sans Hebrew-Bold'), url("https://mirostatic.com/app/static/d2883e2f177d0dad.woff2") format('woff2'), url("https://mirostatic.com/app/static/8546991909eadbc9.woff") format('woff');
+}
+]]><![CDATA[@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Noto Sans'), local('NotoSans'), url("https://mirostatic.com/app/static/a73798e3d459e1bc.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Noto Sans Italic'), local('NotoSans-Italic'), url("https://mirostatic.com/app/static/a8edd710f88715d4.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Noto Sans Medium'), local('NotoSans-Medium'), url("https://mirostatic.com/app/static/006d7e33e60b9e12.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: italic;
+  font-weight: 500;
+  src: local('Noto Sans Medium Italic'), local('NotoSans-MediumItalic'), url("https://mirostatic.com/app/static/31387059566a3171.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Noto Sans SemiBold'), local('NotoSans-SemiBold'), url("https://mirostatic.com/app/static/526dd53b40975c37.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: italic;
+  font-weight: 600;
+  src: local('Noto Sans SemiBold Italic'), local('NotoSans-SemiBoldItalic'), url("https://mirostatic.com/app/static/e73d4fdd87d7e319.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Noto Sans Bold'), local('NotoSans-Bold'), url("https://mirostatic.com/app/static/9f11d6779c14d2bc.woff2") format('woff2');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Noto Sans Bold Italic'), local('NotoSans-BoldItalic'), url("https://mirostatic.com/app/static/888e13e017cedc15.woff2") format('woff2');
+}
+]]><![CDATA[@font-face {
+  font-family: 'Noto Sans JP';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Noto Sans Japanese Regular'), local('Noto Sans Japanese-Regular'), url("https://mirostatic.com/app/static/9320b3c07ab79383.woff2") format('woff2'), url("https://mirostatic.com/app/static/a43be2cbcfc0b250.woff") format('woff');
+}
+@font-face {
+  font-family: 'Noto Sans JP';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Noto Sans Japanese Bold'), local('Noto Sans Japanese-Bold'), url("https://mirostatic.com/app/static/7ab032c73212439f.woff2") format('woff2'), url("https://mirostatic.com/app/static/29f177f4466bd7a1.woff") format('woff');
+}
+]]><![CDATA[@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''), url("https://mirostatic.com/app/static/7a5b625774730d22.woff2") format('woff2'), url("https://mirostatic.com/app/static/2d84dc606f1fb88e.woff") format('woff');
+}
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 700;
+  src: local(''), url("https://mirostatic.com/app/static/fa5a3d9073cdd58f.woff2") format('woff2'), url("https://mirostatic.com/app/static/7ded243557c83342.woff") format('woff');
+}
+]]></style><clipPath id="clipPath1"><circle cx="127" cy="137" r="127" /></clipPath><clipPath id="clipPath2"><circle cx="306" cy="306" r="306" /></clipPath></defs><rect id="svg-board-background-color" width="100%" height="100%" fill="#f2f2f2"></rect><image xlink:href="data:image/svg+xml;utf8,%3Csvg%0A%09width%3D%2269566.33726596947%22%0A%09height%3D%2283588.37217417112%22%0A%09shape-border-width%3D%22shape-background%22%0A%09style%3D%22width%3A69566.33726596947px%3B%20height%3A%2083588.37217417112px%3B%22%0A%09class%3D%22shape-background%22%0A%09preserveAspectRatio%3D%22none%22%0A%09version%3D%221.1%22%0A%09xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%0A%3E%0A%09%3CclipPath%20id%3D%22115658526849%22%3E%0A%09%09%3Crect%0A%09%09%09x%3D%220%22%0A%09%09%09y%3D%220%22%0A%09%09%09width%3D%2269566.33726596947%22%0A%09%09%09height%3D%2283588.37217417112%22%0A%09%09%09rx%3D%220%22%0A%09%09%09ry%3D%220%22%0A%09%09%3E%3C%2Frect%3E%0A%09%3C%2FclipPath%3E%0A%09%3Cg%20id%3D%22Page-1%22%20stroke%3D%22none%22%20stroke-width%3D%220%22%20fill%3D%22none%22%20fill-rule%3D%22evenodd%22%3E%0A%09%09%3Crect%0A%09%09%09class%3D%22shape-element%20shape-element-rect%22%0A%09%09%09stroke%3D%22%23000000%22%0A%09%09%09stroke-width%3D%220%22%0A%09%09%09stroke-dasharray%3D%22%22%0A%09%09%09stroke-opacity%3D%22%22%0A%09%09%09fill%3D%22%23ffffff%22%0A%09%09%09fill-opacity%3D%22%22%0A%09%09%09x%3D%220%22%0A%09%09%09y%3D%220%22%0A%09%09%09width%3D%2269566.33726596947%22%0A%09%09%09height%3D%2283588.37217417112%22%0A%09%09%09rx%3D%220%22%0A%09%09%09ry%3D%220%22%0A%09%09%09clip-path%3D%22url(%23115658526849)%22%0A%09%09%3E%3C%2Frect%3E%0A%09%3C%2Fg%3E%0A%3C%2Fsvg%3E%0A" width="471.6370124548709px" height="566.7017857022859px" data-frame="true" preserveAspectRatio="none" data-frame-id="3458764652713884335" transform="translate(-4.67, -2.48) scale(1) rotate(0, 235.81850622743545, 283.35089285114293)" /><g width="102px" height="17px"  transform="translate(182.63, 15.62) scale(0.866562578070387) rotate(0, 51, 8.5)"><svg
+	width="102"
+	height="17"
+	shape-border-width="shape-background"
+	style="width:102px; height: 17px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="240335125650">
+		<rect
+			x="0"
+			y="0"
+			width="102"
+			height="17"
+			rx="0"
+			ry="0"
+		></rect>
+	</clipPath>
+	<g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<rect
+			class="shape-element shape-element-rect"
+			stroke="transparent"
+			stroke-width="0"
+			stroke-dasharray=""
+			stroke-opacity="0"
+			fill="transparent"
+			fill-opacity="0"
+			x="0"
+			y="0"
+			width="102"
+			height="17"
+			rx="0"
+			ry="0"
+			clip-path="url(#240335125650)"
+		></rect>
+	</g>
+</svg>
+</g><g width="102px" height="17px"  transform="translate(182.63, 15.62) scale(0.866562578070387) rotate(0, 51, 8.5)"><g transform="translate(0, 0)"><rect transform="translate(0.6000518798828054, 0)" width="100.79989624023438" height="17" fill="#ffffff" ></rect><text xml:space="preserve" x="0.6000518798828054" y="14" width="100.79989624023438" textLength="100.79989624023438" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Spoof", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR, Noto Sans, Noto Sans SC, PingFang SC, Microsoft YaHei' font-size="14" 
+				fill="#602a53" direction="ltr" font-weight="bold">Jak to działa?</text></g></g><g width="296.19px" height="136px"  transform="translate(247.92, 146.47) scale(0.6499219335527903) rotate(0, 148.095, 68)"><svg
+	width="296.19"
+	height="136"
+	shape-border-width="shape-background"
+	style="width:296.19px; height: 136px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="461131788039">
+		<rect
+			x="0"
+			y="0"
+			width="296.19"
+			height="136"
+			rx="0"
+			ry="0"
+		></rect>
+	</clipPath>
+	<g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<rect
+			class="shape-element shape-element-rect"
+			stroke="transparent"
+			stroke-width="0"
+			stroke-dasharray=""
+			stroke-opacity="0"
+			fill="transparent"
+			fill-opacity="0"
+			x="0"
+			y="0"
+			width="296.19"
+			height="136"
+			rx="0"
+			ry="0"
+			clip-path="url(#461131788039)"
+		></rect>
+	</g>
+</svg>
+</g><g width="296.19px" height="136px"  transform="translate(247.92, 146.47) scale(0.6499219335527903) rotate(0, 148.095, 68)"><g transform="translate(0, 0)"><text xml:space="preserve" x="0" y="14" width="181.77577209472656" textLength="181.77577209472656" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Spoof", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR, Noto Sans, Noto Sans SC, PingFang SC, Microsoft YaHei' font-size="14" 
+				fill="#3a3a3a" direction="ltr" font-weight="bold">Interaktywność i dodatki</text><text xml:space="preserve" x="0" y="31" width="252.69970703125" textLength="252.69970703125" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Spoof", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR, Noto Sans, Noto Sans SC, PingFang SC, Microsoft YaHei' font-size="14" 
+				fill="#3a3a3a" direction="ltr" >Nowoczesne narzędzia pozwalają na </text><text xml:space="preserve" x="0" y="48" width="253.06373596191406" textLength="253.06373596191406" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Spoof", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR, Noto Sans, Noto Sans SC, PingFang SC, Microsoft YaHei' font-size="14" 
+				fill="#3a3a3a" direction="ltr" >dodanie elementów interaktywnych: </text><text xml:space="preserve" x="0" y="65" width="290.16368103027344" textLength="290.16368103027344" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Spoof", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR, Noto Sans, Noto Sans SC, PingFang SC, Microsoft YaHei' font-size="14" 
+				fill="#3a3a3a" direction="ltr" >opisów, zdjęć, filmów 360°, dźwięków czy </text><text xml:space="preserve" x="0" y="82" width="297.4577331542969" textLength="297.4577331542969" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Spoof", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR, Noto Sans, Noto Sans SC, PingFang SC, Microsoft YaHei' font-size="14" 
+				fill="#3a3a3a" direction="ltr" >modeli 3D. Dzięki temu każdy odwiedzający </text><text xml:space="preserve" x="0" y="99" width="280.1676788330078" textLength="280.1676788330078" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Spoof", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR, Noto Sans, Noto Sans SC, PingFang SC, Microsoft YaHei' font-size="14" 
+				fill="#3a3a3a" direction="ltr" >może uzyskać szczegółowe informacje w </text><text xml:space="preserve" x="0" y="116" width="284.5636291503906" textLength="284.5636291503906" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Spoof", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR, Noto Sans, Noto Sans SC, PingFang SC, Microsoft YaHei' font-size="14" 
+				fill="#3a3a3a" direction="ltr" >trakcie wirtualnego spaceru, co zwiększa </text><text xml:space="preserve" x="0" y="133" width="143.7798614501953" textLength="143.7798614501953" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Spoof", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR, Noto Sans, Noto Sans SC, PingFang SC, Microsoft YaHei' font-size="14" 
+				fill="#3a3a3a" direction="ltr" >jego zaangażowanie.</text></g></g><g width="335.71px" height="102px"  transform="translate(82.53, 278.87) scale(0.6618451836916996) rotate(0, 167.855, 51)"><svg
+	width="335.71"
+	height="102"
+	shape-border-width="shape-background"
+	style="width:335.71px; height: 102px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="974081519066">
+		<rect
+			x="0"
+			y="0"
+			width="335.71"
+			height="102"
+			rx="0"
+			ry="0"
+		></rect>
+	</clipPath>
+	<g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<rect
+			class="shape-element shape-element-rect"
+			stroke="transparent"
+			stroke-width="0"
+			stroke-dasharray=""
+			stroke-opacity="0"
+			fill="transparent"
+			fill-opacity="0"
+			x="0"
+			y="0"
+			width="335.71"
+			height="102"
+			rx="0"
+			ry="0"
+			clip-path="url(#974081519066)"
+		></rect>
+	</g>
+</svg>
+</g><g width="335.71px" height="102px"  transform="translate(82.53, 278.87) scale(0.6618451836916996) rotate(0, 167.855, 51)"><g transform="translate(0, 0)"><text xml:space="preserve" x="0" y="14" width="142.4498291015625" textLength="142.4498291015625" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Spoof", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR, Noto Sans, Noto Sans SC, PingFang SC, Microsoft YaHei' font-size="14" 
+				fill="#3a3a3a" direction="ltr" font-weight="bold">Integracja z Google</text><text xml:space="preserve" x="0" y="31" width="254.0996856689453" textLength="254.0996856689453" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Spoof", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR, Noto Sans, Noto Sans SC, PingFang SC, Microsoft YaHei' font-size="14" 
+				fill="#3a3a3a" direction="ltr" >Opcjonalnie wirtualny spacer można </text><text xml:space="preserve" x="0" y="48" width="272.49571228027344" textLength="272.49571228027344" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Spoof", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR, Noto Sans, Noto Sans SC, PingFang SC, Microsoft YaHei' font-size="14" 
+				fill="#3a3a3a" direction="ltr" >opublikować na Google Street View, co </text><text xml:space="preserve" x="0" y="65" width="334.6556396484375" textLength="334.6556396484375" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Spoof", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR, Noto Sans, Noto Sans SC, PingFang SC, Microsoft YaHei' font-size="14" 
+				fill="#3a3a3a" direction="ltr" >poprawia widoczność firmy w wyszukiwarce i na </text><text xml:space="preserve" x="0" y="82" width="308.8817443847656" textLength="308.8817443847656" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Spoof", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR, Noto Sans, Noto Sans SC, PingFang SC, Microsoft YaHei' font-size="14" 
+				fill="#3a3a3a" direction="ltr" >mapach. To prosty sposób, aby przyciągnąć </text><text xml:space="preserve" x="0" y="99" width="285.76768493652344" textLength="285.76768493652344" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Spoof", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR, Noto Sans, Noto Sans SC, PingFang SC, Microsoft YaHei' font-size="14" 
+				fill="#3a3a3a" direction="ltr" >lokalnych klientów i zwiększyć ruch online.</text></g></g><g width="262.76px" height="119px"  transform="translate(271.23, 397.29) scale(0.6499219335527903) rotate(0, 131.38, 59.5)"><svg
+	width="262.76"
+	height="119"
+	shape-border-width="shape-background"
+	style="width:262.76px; height: 119px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="304885511422">
+		<rect
+			x="0"
+			y="0"
+			width="262.76"
+			height="119"
+			rx="0"
+			ry="0"
+		></rect>
+	</clipPath>
+	<g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<rect
+			class="shape-element shape-element-rect"
+			stroke="transparent"
+			stroke-width="0"
+			stroke-dasharray=""
+			stroke-opacity="0"
+			fill="transparent"
+			fill-opacity="0"
+			x="0"
+			y="0"
+			width="262.76"
+			height="119"
+			rx="0"
+			ry="0"
+			clip-path="url(#304885511422)"
+		></rect>
+	</g>
+</svg>
+</g><g width="262.76px" height="119px"  transform="translate(271.23, 397.29) scale(0.6499219335527903) rotate(0, 131.38, 59.5)"><g transform="translate(0, 0)"><text xml:space="preserve" x="0" y="14" width="186.71778869628906" textLength="186.71778869628906" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Spoof", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR, Noto Sans, Noto Sans SC, PingFang SC, Microsoft YaHei' font-size="14" 
+				fill="#3a3a3a" direction="ltr" font-weight="bold">Efekt dla Twojego biznesu</text><text xml:space="preserve" x="0" y="31" width="206.91973876953125" textLength="206.91973876953125" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Spoof", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR, Noto Sans, Noto Sans SC, PingFang SC, Microsoft YaHei' font-size="14" 
+				fill="#3a3a3a" direction="ltr" >Wirtualna wycieczka zwiększa </text><text xml:space="preserve" x="0" y="48" width="195.03378295898438" textLength="195.03378295898438" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Spoof", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR, Noto Sans, Noto Sans SC, PingFang SC, Microsoft YaHei' font-size="14" 
+				fill="#3a3a3a" direction="ltr" >atrakcyjność oferty, buduje </text><text xml:space="preserve" x="0" y="65" width="240.0717315673828" textLength="240.0717315673828" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Spoof", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR, Noto Sans, Noto Sans SC, PingFang SC, Microsoft YaHei' font-size="14" 
+				fill="#3a3a3a" direction="ltr" >profesjonalny wizerunek i wyróżnia </text><text xml:space="preserve" x="0" y="82" width="259.2937316894531" textLength="259.2937316894531" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Spoof", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR, Noto Sans, Noto Sans SC, PingFang SC, Microsoft YaHei' font-size="14" 
+				fill="#3a3a3a" direction="ltr" >firmę na tle konkurencji, przyciągając </text><text xml:space="preserve" x="0" y="99" width="236.5578155517578" textLength="236.5578155517578" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Spoof", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR, Noto Sans, Noto Sans SC, PingFang SC, Microsoft YaHei' font-size="14" 
+				fill="#3a3a3a" direction="ltr" >nowych klientów i zatrzymując ich </text><text xml:space="preserve" x="0" y="116" width="171.37380981445312" textLength="171.37380981445312" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Spoof", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR, Noto Sans, Noto Sans SC, PingFang SC, Microsoft YaHei' font-size="14" 
+				fill="#3a3a3a" direction="ltr" >dłużej przy Twojej marce.</text></g></g><g width="345.86px" height="119px"  transform="translate(13.22, 44.05) scale(0.6114133019833115) rotate(0, 172.93, 59.5)"><svg
+	width="345.86"
+	height="119"
+	shape-border-width="shape-background"
+	style="width:345.86px; height: 119px;"
+	class="shape-background"
+	preserveAspectRatio="none"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<clipPath id="1738449282728">
+		<rect
+			x="0"
+			y="0"
+			width="345.86"
+			height="119"
+			rx="0"
+			ry="0"
+		></rect>
+	</clipPath>
+	<g id="Page-1" stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
+		<rect
+			class="shape-element shape-element-rect"
+			stroke="transparent"
+			stroke-width="0"
+			stroke-dasharray=""
+			stroke-opacity="0"
+			fill="transparent"
+			fill-opacity="0"
+			x="0"
+			y="0"
+			width="345.86"
+			height="119"
+			rx="0"
+			ry="0"
+			clip-path="url(#1738449282728)"
+		></rect>
+	</g>
+</svg>
+</g><g width="345.86px" height="119px"  transform="translate(13.22, 44.05) scale(0.6114133019833115) rotate(0, 172.93, 59.5)"><g transform="translate(0, 0)"><text xml:space="preserve" x="0" y="14" width="146.81785583496094" textLength="146.81785583496094" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Spoof", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR, Noto Sans, Noto Sans SC, PingFang SC, Microsoft YaHei' font-size="14" 
+				fill="#3a3a3a" direction="ltr" font-weight="bold">Tworzenie wycieczki</text><text xml:space="preserve" x="0" y="31" width="271.3337097167969" textLength="271.3337097167969" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Spoof", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR, Noto Sans, Noto Sans SC, PingFang SC, Microsoft YaHei' font-size="14" 
+				fill="#3a3a3a" direction="ltr" >Proces zaczyna się od wykonania zdjęć </text><text xml:space="preserve" x="0" y="48" width="291.01771545410156" textLength="291.01771545410156" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Spoof", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR, Noto Sans, Noto Sans SC, PingFang SC, Microsoft YaHei' font-size="14" 
+				fill="#3a3a3a" direction="ltr" >sferycznych 360° całego obiektu lub jego </text><text xml:space="preserve" x="0" y="65" width="249.8296661376953" textLength="249.8296661376953" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Spoof", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR, Noto Sans, Noto Sans SC, PingFang SC, Microsoft YaHei' font-size="14" 
+				fill="#3a3a3a" direction="ltr" >kluczowych wnętrz. Specjalistyczne </text><text xml:space="preserve" x="0" y="82" width="340.1016387939453" textLength="340.1016387939453" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Spoof", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR, Noto Sans, Noto Sans SC, PingFang SC, Microsoft YaHei' font-size="14" 
+				fill="#3a3a3a" direction="ltr" >oprogramowanie łączy je w spójną, interaktywną </text><text xml:space="preserve" x="0" y="99" width="278.0676574707031" textLength="278.0676574707031" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Spoof", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR, Noto Sans, Noto Sans SC, PingFang SC, Microsoft YaHei' font-size="14" 
+				fill="#3a3a3a" direction="ltr" >przestrzeń, w której użytkownik może się </text><text xml:space="preserve" x="0" y="116" width="144.57781982421875" textLength="144.57781982421875" lengthAdjust="spacingAndGlyphs" letter-spacing="0" font-family='"Spoof", Helvetica, OpenSans, Arial, sans-serif, Noto Sans Hebrew, Noto Sans, Noto Sans JP, Noto Sans KR, Noto Sans, Noto Sans SC, PingFang SC, Microsoft YaHei' font-size="14" 
+				fill="#3a3a3a" direction="ltr" >swobodnie poruszać.</text></g></g><g transform="translate(203.32, 97.92) scale(0.23800953164370006) rotate(90, 92.5, 111.5)"><image xlink:href="https://miro.com/api/v1/boards/uXjVGa5rQBo%3D/resources/3458764517481977176/files/created" width="185px" height="223px" id="IMG_0" /></g><g transform="translate(189.86, 219.6) scale(0.24292232263888835) rotate(39.96609364305511, 65, 117.5)"><image xlink:href="https://miro.com/api/v1/boards/uXjVGa5rQBo%3D/resources/3458764517481957309/files/created" width="130px" height="235px" id="IMG_1" /></g><g transform="translate(361.22, 226.31) scale(0.283362608817502) rotate(0, 127, 137)"><image xlink:href="https://miro.com/api/v1/boards/uXjVGa5rQBo%3D/resources/3458764517481990067/files/created" width="254px" height="274px" id="IMG_2" clip-path="url(#clipPath1)" /></g><g transform="translate(71.67, 130.5) scale(0.1803750756906039) rotate(0, 306, 306)"><image xlink:href="https://miro.com/api/v1/boards/uXjVGa5rQBo%3D/resources/3458764517481985986/files/created" width="612px" height="612px" id="IMG_3" clip-path="url(#clipPath2)" /></g><g transform="translate(31.1, 444.68) scale(0.6022936182867189) rotate(0, 196, 79)"><image xlink:href="https://miro.com/api/v1/boards/uXjVGa5rQBo%3D/resources/3458764517481982233/files/created" width="392px" height="158px" id="IMG_4" /></g><g transform="translate(196.62, 364.86) scale(0.25126740607413056) rotate(73.48287301855822, 107, 86)"><image xlink:href="https://miro.com/api/v1/boards/uXjVGa5rQBo%3D/resources/3458764517481947751/files/created" width="214px" height="172px" id="IMG_5" /></g><g transform="translate(16.75, 274.25) scale(0.021489391583252505) rotate(0, 1024, 1024.5)"><image xlink:href="https://miro.com/api/v1/boards/uXjVGa5rQBo%3D/resources/3458764517481921691/files/created" width="2048px" height="2049px" id="IMG_6" /></g><g transform="translate(271.23, 37.75) scale(0.1510560743999644) rotate(0, 256, 256)"><image xlink:href="https://miro.com/api/v1/boards/uXjVGa5rQBo%3D/resources/3458764517481987567/files/created" width="512px" height="512px" id="IMG_7" /></g></svg>
